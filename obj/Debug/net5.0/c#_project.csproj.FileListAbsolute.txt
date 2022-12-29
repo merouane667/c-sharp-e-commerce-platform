@@ -1,0 +1,16 @@
+C:\Users\ASUS\OneDrive - Ynov\Documents\workspace\c#_project\obj\Debug\net5.0\c#_project.csprojAssemblyReference.cache
+C:\Users\ASUS\OneDrive - Ynov\Documents\workspace\c#_project\obj\Debug\net5.0\c#_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive - Ynov\Documents\workspace\c#_project\obj\Debug\net5.0\c#_project.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive - Ynov\Documents\workspace\c#_project\obj\Debug\net5.0\c#_project.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive - Ynov\Documents\workspace\c#_project\obj\Debug\net5.0\c#_project.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive - Ynov\Documents\workspace\c#_project\bin\Debug\net5.0\c#_project.exe
+C:\Users\ASUS\OneDrive - Ynov\Documents\workspace\c#_project\bin\Debug\net5.0\c#_project.deps.json
+C:\Users\ASUS\OneDrive - Ynov\Documents\workspace\c#_project\bin\Debug\net5.0\c#_project.runtimeconfig.json
+C:\Users\ASUS\OneDrive - Ynov\Documents\workspace\c#_project\bin\Debug\net5.0\c#_project.runtimeconfig.dev.json
+C:\Users\ASUS\OneDrive - Ynov\Documents\workspace\c#_project\bin\Debug\net5.0\c#_project.dll
+C:\Users\ASUS\OneDrive - Ynov\Documents\workspace\c#_project\bin\Debug\net5.0\ref\c#_project.dll
+C:\Users\ASUS\OneDrive - Ynov\Documents\workspace\c#_project\bin\Debug\net5.0\c#_project.pdb
+C:\Users\ASUS\OneDrive - Ynov\Documents\workspace\c#_project\obj\Debug\net5.0\c#_project.dll
+C:\Users\ASUS\OneDrive - Ynov\Documents\workspace\c#_project\obj\Debug\net5.0\ref\c#_project.dll
+C:\Users\ASUS\OneDrive - Ynov\Documents\workspace\c#_project\obj\Debug\net5.0\c#_project.pdb
+C:\Users\ASUS\OneDrive - Ynov\Documents\workspace\c#_project\obj\Debug\net5.0\c#_project.genruntimeconfig.cache
